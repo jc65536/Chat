@@ -1,1 +1,2 @@
-# Chat
+# Chatroom
+A simple chatroom.
